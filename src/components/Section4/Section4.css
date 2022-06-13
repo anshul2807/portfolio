@@ -2,9 +2,14 @@
     background: #09021FF2;
     color: #fff;
     padding:0px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .section4__1{
-
+    /* border: 1px solid white; */
+    width: 100%;
 }
 .section4__1 p{
     font-weight: 700;
