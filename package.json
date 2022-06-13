@@ -2,6 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://anshul2807.github.io/portfolio/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
@@ -13,8 +14,8 @@
     "react-scripts": "5.0.1",
     "react-simple-typewriter": "^3.0.1",
     "react-tsparticles": "^2.0.6",
-    "web-vitals": "^2.1.4",
-    "homepage": "http://anshul2807.github.io/portfolio"
+    "web-vitals": "^2.1.4"
+
   },
   "scripts": {
     "start": "react-scripts start",
