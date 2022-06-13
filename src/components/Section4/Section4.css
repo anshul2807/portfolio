@@ -6,6 +6,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+
 }
 .section4__1{
     /* border: 1px solid white; */
@@ -20,7 +21,9 @@
 
 .section4__2{
     /* border: 1px solid white; */
+    width: 1200px;
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
 
 }
