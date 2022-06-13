@@ -1,0 +1,22 @@
+.section1{
+    display: flex;
+    width: 100%;
+    background: #09021FF2;
+    color: #fff;
+
+}
+
+.section1:hover{
+    /* backdrop-filter: blur(10px);
+    filter: blur(4px);
+    transition: 0.5s ease; */
+}
+.section1__left{
+    /* border: 1px solid black; */
+    width: 50%;
+}
+.section1__right{
+    /* border: 1px solid black; */
+    width: 50%;
+}
+

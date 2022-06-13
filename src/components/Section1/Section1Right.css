@@ -1,0 +1,22 @@
+.section1right{
+
+}
+.section1right img{
+    width: 550px;
+    height: 600px;
+    cursor: pointer;
+    /* animation: move 2s infinite alternate; */
+}
+.section1right img:hover{
+}
+@keyframes move {
+    0%{
+        transform: rotate3d(0) scale(1);
+    }
+    50%{
+        transform: rotate3d(1, 1, 1,0.1turn) scale(0.8) ;
+    }
+    100%{
+        transform: rotate3d(1, 1, 2,0.1turn) scale(1) ;
+    }
+}

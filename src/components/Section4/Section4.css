@@ -1,0 +1,41 @@
+.section4{
+    background: #09021FF2;
+    color: #fff;
+    padding:0px 50px;
+}
+.section4__1{
+
+}
+.section4__1 p{
+    font-weight: 700;
+    font-size: 100px;
+    line-height: 192px;
+    color: #54B0F2;
+}
+
+.section4__2{
+    /* border: 1px solid white; */
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.section4__3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    padding: 20px 0px;
+    /* border: 1px solid white; */
+}
+.section4__3 .rotateLogo{
+    opacity: 0.8;
+    animation: rotation 1s infinite linear;
+}
+@keyframes rotation {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(359deg);
+    }
+  }
